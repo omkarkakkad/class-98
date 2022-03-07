@@ -1,0 +1,2 @@
+hello i am omkar
+today i am learning python functions
